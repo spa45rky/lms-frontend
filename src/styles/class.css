@@ -1,0 +1,35 @@
+.center{
+    text-align: center;
+}
+div *{
+    margin-bottom: 2%;
+
+}
+.side{
+    margin-left: 15%;
+}
+.side2{
+    margin-left: 5%;
+}
+
+.side1{
+    margin-left: 48%;
+}
+
+.daf{
+    display: block;
+}
+
+.inputheading{
+    background-color:lightslategray;
+    color: white;
+    display: inline;
+    padding:10px;
+    border-radius: 10%;
+    
+}
+select{
+    width: 200px;
+    height: 40px;
+    font-size: 30px;
+}
